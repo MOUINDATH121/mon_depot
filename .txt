@@ -1,0 +1,4 @@
+git pull permet d'enregistrer les modifications et git fetch permet de fusionne
+git checkout 
+
+d/ git long
